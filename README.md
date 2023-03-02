@@ -26,10 +26,10 @@ This is a RESTful API for a simple bookstore, built with FastAPI, a modern web f
     ```terminal
     pip intall -r requirements.txt    
     ```
- 6.  Run the application: 
- 
+5. Run application 
+
     ```terminal
-    uvicorn app.main:app --reload    
+    uvicorn app.main:app --reload  
     ```
 
 ## API Documantation
