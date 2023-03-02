@@ -28,9 +28,9 @@ This is a RESTful API for a simple bookstore, built with FastAPI, a modern web f
     ```
  6.  Run the application: 
  
-	```terminal
-	uvicorn app.main:app --reload    
-	```
+    ```terminal
+    uvicorn app.main:app --reload    
+    ```
 
 ## API Documantation
 The API Documentation with the API routes, parameters and responses, can be accessed at `http://127.0.0.1:8000/docs`
